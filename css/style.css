@@ -2,7 +2,11 @@
     background-color: rgb(182, 223, 250);
 
 }
-
+#main {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
 #logo {
     width: 150px;
     padding-left: 1px;
@@ -46,4 +50,28 @@ h1 {
 }
 #lista {
     padding-left: 12px;
+}
+th {
+    color: aliceblue;
+    background-color: cornflowerblue;
+    text-align: left;
+    width: 500px;
+    height: 1px;
+    
+}
+#tr1 {
+    background-color: rgb(214, 226, 247);
+}
+#tr2 {
+    background-color: rgb(214, 226, 247);
+}
+#chiusura{
+    text-align: center;
+    color: aliceblue;
+}
+
+#footer {
+    background-color: midnightblue;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
