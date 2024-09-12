@@ -15,3 +15,28 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 25px;
 
 }
+#dt {
+    color: blue;
+    
+}
+#sottot
+{
+    font-size: 15px;
+    line-height: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+}
+#data
+{
+    font-size: 10px;
+    line-height: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sottof {
+    font-size: 12px;
+    line-height: 1px;
+}
+#text{
+    background-color: yellow;
+}
