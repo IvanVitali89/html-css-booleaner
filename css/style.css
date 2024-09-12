@@ -1,42 +1,49 @@
 #head {
     background-color: rgb(182, 223, 250);
-    
-    
+
 }
+
 #logo {
     width: 150px;
     padding-left: 1px;
     padding-top: 30px;
     padding-bottom: 30px;
-    
-}
-h1 {
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 25px;
 
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+
 #dt {
     color: blue;
-    
+
 }
-#sottot
-{
+
+#sottot {
     font-size: 15px;
     line-height: 1px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   
-    
+
+
 }
-#data
-{
+
+#data {
     font-size: 10px;
     line-height: 1px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 #sottof {
     font-size: 12px;
     line-height: 1px;
 }
-#text{
+
+#text {
     background-color: yellow;
+}
+#lista {
+    padding-left: 12px;
 }
